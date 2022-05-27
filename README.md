@@ -1,2 +1,2 @@
 # RxSwift
-a copy of rxswift
+a copy of (https://github.com/ReactiveX/RxSwift)[rxswift] 
